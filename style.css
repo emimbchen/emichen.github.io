@@ -1,11 +1,13 @@
 * {
   box-sizing: boarder-box;
 }
+body {
+}
+
 .header {
   display: block;
-  height: 20%;
-  width: 80%;
-  margin-top: 20px;
+  padding: 15em 30em 15em 30em;
+  margin-top: 30em;
   position: absolute;
   background-color: whitesmoke;
   
