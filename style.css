@@ -1,19 +1,21 @@
 * {
   box-sizing: border-box;
 }
-.body{
-  margin: 0% 20% 0% 20%;
+
+main {
+  padding: 0px 8.5%
 }
 
 .header {
-  height: 92px;
+  position: absolute;
+  height: 20%;
   width: 100%;
   background-color: whitesmoke;
   z-index: 1; 
 }
 
 .left {
-  float: left;
+  position: relative;
   width: 20%;
   height:100%;
   background-color: dimgray;
@@ -21,7 +23,6 @@
 }
 
 .main {
-float: left;
   height: 100%;
   width 80%;
 }
