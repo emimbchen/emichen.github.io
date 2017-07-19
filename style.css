@@ -4,11 +4,12 @@
 
 body {
   padding: 0px 15%;
+  position: center;
 }
 
 .header {
-  height: 20%;
-  width: 90%;
+  height: 29%;
+  width: 100%;
   background-color: whitesmoke;
   z-index: 1; 
 }
@@ -21,7 +22,7 @@ body {
 }
 
 .main {
-  position: right;
+  float: right;
   height: 100%;
   width 80%;
 }
