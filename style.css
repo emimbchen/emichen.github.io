@@ -5,7 +5,7 @@
   display: block;
   height: 15%;
   width:80%;
-  margin-top: 10px;
+  margin-top: 20ems;
   position: absolute;
   background-color: whitesmoke;
   
@@ -25,7 +25,7 @@ h3 {
   position: fixed;
   width: 25%;
   height:80%;
-  margin-left: 10px;
+  margin-left: 20ems;
   background-color: dimgray;
 }
 
