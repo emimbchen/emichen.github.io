@@ -1,11 +1,10 @@
 * {
   box-sizing: boarder-box;
 }
-body {
-}
 
 .header {
   display: block;
+  position: center;
   height: 20%;
   width: 90%;
   margin: 0% 10% 0% 10%;
@@ -14,7 +13,7 @@ body {
 }
 
 h1 {
-  text-align: center;
+  text-align: right;
   font-size: 200%;
   
 }
@@ -23,6 +22,9 @@ h1 {
 }
 
 h3 {
+  float: right;
+  border: solid;
+  
 }
 
 .left {
@@ -35,7 +37,7 @@ h3 {
 }
 
 h6 {
-  border-solid;
-  border-color: white;
+  border:solid;
+  border:color: white;
   color: white;
 }
