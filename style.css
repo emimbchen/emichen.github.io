@@ -3,7 +3,7 @@
 }
 
 main {
-  padding: 0px 8.5%
+  padding: 0px 15%
 }
 
 .header {
@@ -21,6 +21,7 @@ main {
 }
 
 .main {
+  position: right;
   height: 100%;
   width 80%;
 }
