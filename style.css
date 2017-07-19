@@ -1,36 +1,28 @@
 * {
-  box-sizing: boarder-box;
+  box-sizing: border-box;
+}
+.body{
+  margin: 0% 20% 0% 20%;
 }
 
 .header {
-  display: block;
-  position: absolute;
   height: 92px;
   width: 100%;
   background-color: whitesmoke;
-  z-index: 1;
-  
-}
-
-h1 {
-  text-align: right;
-  font-size: 200%; 
-}
-
-h3 {
+  z-index: 1; 
 }
 
 .left {
-  display: block;
-  float:left;
+  float: left;
   width: 20%;
   height:100%;
   background-color: dimgray;
   z-index: 2;
 }
 
-h6 {
-  border:solid;
-  border:color: white;
-  color: white;
+.main {
+float: left;
+  height: 100%;
+  width 80%;
 }
+
