@@ -10,8 +10,6 @@ body {
   height: 30%;
   width: 100%;
   position: absolute;
-  right: 0;
-  top:0;
   background-color: whitesmoke;
   z-index: 1; 
 }
