@@ -10,7 +10,7 @@ body {
 }
 
 .header {
-  height: 29%;
+  height: 30%;
   width: 100%;
   position: absolute;
   right: 0;
@@ -21,7 +21,7 @@ body {
 
 .left {
   position: relative;
-  left: 4px;
+  left: 10px;
   width: 20%;
   height:100%;
   background-color: dimgray;
