@@ -1,6 +1,7 @@
 .header {
   display: block;
   position: absolute;
+  background-color: whitesmoke;
   
 }
 
@@ -17,9 +18,7 @@ h3 {
   display: block;
   position: fixed;
   width: 20%;
-  
-  
-  
+  background-color: darkslategray;
 }
 
 h6 {
