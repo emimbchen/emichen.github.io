@@ -4,17 +4,22 @@
 
 body {
   padding: 0px 15%;
-  position: center;
+  position: relative;
 }
 
 .header {
   height: 29%;
   width: 100%;
+  position: absolute;
+  right: 0;
+  top:0;
   background-color: whitesmoke;
   z-index: 1; 
 }
 
 .left {
+  position: relative;
+  left: 4px;
   width: 20%;
   height:100%;
   background-color: dimgray;
