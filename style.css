@@ -5,10 +5,11 @@
 .header {
   display: block;
   position: center;
-  height: 20%;
-  width: 90%;
+  height: 25%;
+  width: 80%;
   margin: 0% 10% 0% 10%;
   background-color: whitesmoke;
+  z-index: 1;
   
 }
 
@@ -22,7 +23,7 @@ h1 {
 }
 
 h3 {
-  float: right;
+  float: center;
   border: solid;
   
 }
@@ -34,6 +35,7 @@ h3 {
   height:80%;
   margin: 0% 10% 0% 10%;
   background-color: dimgray;
+  z-index: 2;
 }
 
 h6 {
