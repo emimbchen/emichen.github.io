@@ -30,16 +30,16 @@ html, body {
 }
 
 img {
-  height: 100px;
+  width: 80%;
   border-radius:100%
 }
 
 #sidebar {
   display: absolute;
-  left: 0;
   top: 0;
+  left: 0;
   height: 100%;
-  width: 30px;
+  width: 20%;
   background-color: dimgray;
   color: white;
   z-index: 3;
