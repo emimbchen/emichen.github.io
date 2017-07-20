@@ -23,20 +23,32 @@ html, body {
   margin: 10px 0px;
   text-align: center;
   z-index:0;
+  border: bottom teal;
 }
 
-#main {
+.main {
   display: block;
   position: relative;
   left: 20%;
   text- align: center;
 }
 
+.hardie {
+border: top bottom teal;
+}
+
+.opera {
+border: top bottom teal;
+}
+
 h3 {
   text-align: center;
   text-transform: uppercase;
 }
+
 h4 {
+  text-align: left;
   text-transform: uppercase;
   text-color: tan; 
+  border: teal;
 }
