@@ -14,6 +14,7 @@ body {
   height: 20%;
   width: 80%;
   position: absolute;
+  top: 10%;
   background-color: whitesmoke;
   z-index: 1; 
 }
@@ -21,7 +22,7 @@ body {
 .left {
   display: block;
   position: fixed;
-  left: 30ems;
+  left: 15%;
   width: 20%;
   height: 100%;
   background-color: dimgray;
