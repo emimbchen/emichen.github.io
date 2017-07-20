@@ -16,10 +16,6 @@ html, body {
   padding: 0;
 }
 
-.container h6 {
-padding: 0;
-}
-
 .banner {
   background-color: white;
   display: block;
@@ -30,9 +26,18 @@ padding: 0;
   border: bottom teal;
 }
 
+.banner h5 {
+  text-color:lightgray;
+  padding: 0;
+}
+
 .main {
   display: block;
   position: relative;
+}
+
+.main h5 {
+font-style: italic;
 }
 
 .hardie {
@@ -54,11 +59,13 @@ border: top bottom teal;
 h3 {
   text-align: center;
   text-transform: uppercase;
+  font-style: bold;
 }
 
 h4 {
   text-align: left;
   text-transform: uppercase;
+  font-style: bold;
   text-color: tan; 
   border: teal;
 }
