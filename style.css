@@ -21,7 +21,7 @@ body {
 .left {
   display: block;
   position: fixed;
-  left: 18px;
+  left: 30ems;
   width: 20%;
   height: 100%;
   background-color: dimgray;
