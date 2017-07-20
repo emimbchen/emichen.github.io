@@ -30,7 +30,6 @@ html, body {
   display: block;
   position: relative;
   left: 20%;
-  text- align: center;
 }
 
 .hardie {
@@ -38,6 +37,14 @@ border: top bottom teal;
 }
 
 .opera {
+border: top bottom teal;
+}
+
+.costume {
+border: top bottom teal;
+}
+
+.nanny {
 border: top bottom teal;
 }
 
