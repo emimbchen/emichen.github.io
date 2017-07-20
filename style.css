@@ -24,7 +24,7 @@ html, body {
 
 #main {
   display: block;
-  position: static;
+  position: relative;
   text- align: center;
 }
 
