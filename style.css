@@ -26,6 +26,7 @@ html, body {
 #main {
   display: block;
   position: relative;
+  left: 20%;
   text- align: center;
 }
 
