@@ -7,4 +7,6 @@ body {
   margin: 0px 10%;
   border: solid;
   background-color: red;
+  height: 100%;
+  width: 100%;
 }
