@@ -22,12 +22,11 @@ html, body {
   position: static;
   margin: 10px 0px;
   text-align: center;
-  z-index:0;
-  border: bottom teal;
+  border: bottom;
 }
 
 .banner h5 {
-  text-color:lightgray;
+  text-color: lightgray;
   padding: 0;
 }
 
@@ -40,32 +39,34 @@ html, body {
 font-style: italic;
 }
 
-.hardie {
-border: top bottom teal;
+.main h4 {
+  text-align: left;
+  text-transform: uppercase;
+  font-style: bold;
+  text-color: tan; 
 }
 
-.opera {
-border: top bottom teal;
-}
-
-.costume {
-border: top bottom teal;
-}
-
-.nanny {
-border: top bottom teal;
-}
-
-h3 {
+.main h3 {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
 }
 
-h4 {
-  text-align: left;
-  text-transform: uppercase;
-  font-style: bold;
-  text-color: tan; 
-  border: teal;
+.hardie {
+border: top bottom;
 }
+
+.opera {
+border: top bottom;
+}
+
+.costume {
+border: top bottom;
+}
+
+.nanny {
+border: top bottom;
+}
+
+
+
