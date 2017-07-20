@@ -36,8 +36,8 @@ img {
 
 #sidebar {
   display: absolute;
-  top: 0;
-  left: 0;
+  top: 0px;
+  left: 10px;
   height: 100%;
   width: 20%;
   background-color: dimgray;
