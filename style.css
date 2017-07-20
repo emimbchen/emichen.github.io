@@ -1,12 +1,27 @@
 * {
   box-sizing: border-box;
 }
+html {
+  display: block;
+}
 
 body {
   display: block;
+}
+
+#container {
+  display: block;
   margin: 0px 10%;
-  border: solid;
-  background-color: red;
-  height: 100%;
-  width: 80%;
+  background-color: black;
+}
+
+#banner {
+  display: block;
+  position: relative;
+  background-color: whitesmoke;
+}
+
+#main{
+  display: block;
+  position: static;
 }
