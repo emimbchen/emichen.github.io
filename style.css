@@ -19,6 +19,7 @@ html, body {
   position: static;
   margin: 10px 0px;
   background-color: whitesmoke;
+  text-align: center;
 }
 
 #main {
@@ -32,6 +33,9 @@ img {
 }
 
 #sidebar {
+  display: absolute;
+  height: 100%;
+  width: 15px;
   background-color: dimgray;
   color: white;
 }
