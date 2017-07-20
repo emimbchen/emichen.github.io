@@ -1,27 +1,37 @@
 * {
   box-sizing: border-box;
 }
-html {
-  display: block;
-}
 
-body {
+html, body {
   display: block;
+  height: 100%;
+  width: 100%
 }
 
 #container {
+  position: relative;
   display: block;
   margin: 0px 10%;
-  background-color: black;
 }
 
 #banner {
   display: block;
-  position: relative;
+  position: static;
+  margin: 10px 0px;
   background-color: whitesmoke;
 }
 
-#main{
+#main {
   display: block;
   position: static;
+}
+
+img {
+  height: 15px;
+  border-radius:100%
+}
+
+#sidebar {
+  background-color: dimgray;
+  color: white;
 }
