@@ -33,7 +33,7 @@ body {
 .main {
   display: block;
   position: relative;
-  float: left;
+  left: 25%;
   height: 100%;
   width 80%;
   z-index:0;
