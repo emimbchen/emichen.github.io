@@ -8,8 +8,10 @@ body {
 
 .header {
   height: 30%;
-  width: 100%;
+  width: 90%;
   position: absolute;
+  top:0px;
+  left:0px;
   background-color: whitesmoke;
   z-index: 1; 
 }
@@ -24,7 +26,7 @@ body {
 }
 
 .main {
-  float: right;
+  float: left;
   height: 100%;
   width 80%;
 }
