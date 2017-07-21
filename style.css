@@ -8,14 +8,14 @@ html, body {
 .container {
   position: relative;
   display: block;
-  margin: 0px 18%;
+  margin: 0px 20%;
 }
 
 .banner {
   display: block;
   position: static;
-  margin: 10px 0px;
-  border-style: bottom;
+  margin: 10px 0px 0px 0px;
+  border-bottom: double teal;
   text-align: center;
 }
 
