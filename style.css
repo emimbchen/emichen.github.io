@@ -11,22 +11,14 @@ body {
   margin: 0px 20%;
 }
 
-.banner {
-  display: block;
-  position: static;
-  margin: 10px 0px 0px 0px;
-  border-bottom: double teal;
-  text-align: center;
-}
-
 h2 {
   font-weight: 600;
   text-align: center;
-  margin: 5px 0px -2px 0px;
+  margin: 10px 0px -2px 0px;
   
 }
 
-p .banner {
+p {
 font-size: 1.5ems;
 text-align: center;
 color: gainsboro;
@@ -69,6 +61,10 @@ border-bottom: double teal;
 
 .education {
 border-top: double teal;
+}
+
+.education p {
+text-transform: italic;
 }
 
 
