@@ -14,14 +14,14 @@ body {
 h2 {
   font-weight: bold;
   text-align: center;
-  margin: 10px 0px -2px 0px;
+  margin: 10px 0px -1px 0px;
   
 }
 
 #contact {
 text-align: center;
 color: silver;
-margin: -2px 0px 5px 0px;
+margin: -1px 0px 5px 0px;
 }
 
 .main {
