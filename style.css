@@ -26,10 +26,10 @@ h2 {
   
 }
 
-p.banner {
+p .banner {
 font-size: 1.5ems;
 text-align: center;
-color: lightgray;
+color: gainsboro;
 margin-top: -1em;
 }
 
@@ -38,18 +38,18 @@ margin-top: -1em;
   position: static;
 }
 
-h5.main {
+h5  .main {
 font-style: italic;
 }
 
-h4.main {
+h4 .main {
   text-align: left;
   text-transform: uppercase;
   font-style: bold;
   color: tan; 
 }
 
-h3.main {
+h3 .main {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
