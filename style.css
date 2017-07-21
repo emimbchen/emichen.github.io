@@ -52,8 +52,8 @@ h4 {
   color: tan;
   margin-bottom: -2px;
 }
-
-h3 .main {
+/* titles */
+h3 {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
