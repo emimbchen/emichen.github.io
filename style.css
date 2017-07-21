@@ -63,7 +63,7 @@ border-bottom: double teal;
 border-top: double teal;
 }
 
-.education p {
+p.education  {
 text-transform: italic;
 }
 
