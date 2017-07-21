@@ -38,15 +38,19 @@ margin: -2px 0px 5px 0px;
   position: static;
 }
 
-h5  .main {
+/*dates*/
+h5 {
 font-style: italic;
+margin-top: -2px;
 }
 
-h4 .main {
+/*job title*/
+h4 {
   text-align: left;
   text-transform: uppercase;
   font-style: bold;
-  color: tan; 
+  color: tan;
+  margin-bottom: -2px;
 }
 
 h3 .main {
@@ -56,19 +60,15 @@ h3 .main {
 }
 
 .hardie {
-border-style: top bottom;
-}
-
-.opera {
-border-style: top bottom;
-}
-
-.costume {
-border-style: top bottom;
+border-top: double teal;
 }
 
 .nanny {
-border-style: top bottom;
+border-bottom: double teal;
+}
+
+.education {
+border-top: double teal;
 }
 
 
