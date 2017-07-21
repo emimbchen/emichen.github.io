@@ -20,7 +20,7 @@ h2 {
 
 #contact {
 text-align: center;
-color: lightgrey;
+color: silver;
 margin: -2px 0px 5px 0px;
 }
 
@@ -54,7 +54,12 @@ h3 {
   border-bottom: double teal;
 }
 
+ul {
+margin-top: -1px;
+}
+
 #degrees {
+margin-top: -1px;
 text-transform: italic;
 }
 
