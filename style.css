@@ -43,6 +43,8 @@ h4 {
   font-style: bold;
   color: tan;
   margin-bottom: -2px;
+  border-top: double teal;
+  border-bottom: double teal;
 }
 
 /* titles */
@@ -50,18 +52,6 @@ h3 {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
-}
-
-.hardie {
-border-top: double teal;
-}
-
-.nanny {
-border-bottom: double teal;
-}
-
-.education {
-border-top: double teal;
 }
 
 #degrees {
