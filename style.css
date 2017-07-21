@@ -42,8 +42,6 @@ h4 {
   font-style: bold;
   color: tan;
   margin-bottom: -2px;
-  border-top: double teal;
-  border-bottom: double teal;
 }
 
 /* titles */
@@ -51,6 +49,9 @@ h3 {
   text-align: center;
   text-transform: uppercase;
   font-style: bold;
+  padding: 4px;
+  border-top: double teal;
+  border-bottom: double teal;
 }
 
 #degrees {
