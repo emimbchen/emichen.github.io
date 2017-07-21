@@ -18,7 +18,7 @@ h2 {
   
 }
 
-p {
+#contact {
 text-align: center;
 color: lightgray;
 margin: -2px 0px 5px 0px;
@@ -63,7 +63,7 @@ border-bottom: double teal;
 border-top: double teal;
 }
 
-p.education  {
+#degrees {
 text-transform: italic;
 }
 
