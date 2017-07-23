@@ -79,6 +79,7 @@ font-style: italic;
 }
 
 img {
+  position: absolute;
   height: 12em;
   border-radius: 100%;
   float: right;
