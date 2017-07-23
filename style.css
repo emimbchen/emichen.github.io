@@ -76,5 +76,10 @@ margin-top: 0px;
 font-style: italic;
 }
 
+img {
+  height: 40px;
+  border-radius: 100%;
+  float: right;
+}
 
 
