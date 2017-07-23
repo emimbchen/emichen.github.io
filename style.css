@@ -58,9 +58,14 @@ ul {
 margin: 2px 0px 4px 0px;
 }
 
-#skills {
-float: right;
-width: 20%;
+#skillsone {
+float: left;
+width: 30%;
+}
+
+#skillstwo {
+width: 30%;
+float: left;
 }
 
 #degrees {
