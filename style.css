@@ -63,17 +63,20 @@ margin: 2px 0px 4px 0px;
 float: left;
 width: 30%;
 margin-bottom: 13px;
+  line-height: 1em;
 }
 
 #skillstwo {
 width: 50%;
 float: right;
 margin-bottom: 13px;
+  line-height: 1em;
 }
 
 #degrees {
 margin-top: 0px;
 font-style: italic;
+
 }
 
 img {
