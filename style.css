@@ -58,9 +58,9 @@ ul {
 margin: 2px 0px 4px 0px;
 }
 
-#skills {
+#skills ul {
 display: inline-block;
-vertical-align: middle;
+float: none;
 line-height: 1em;
 }
 
