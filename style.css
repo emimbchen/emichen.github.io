@@ -1,14 +1,13 @@
 html {
   display: block;
-  height: 100%;
-  width: 100%;
   font-family: serif;
 }
 
 body {
   position: relative;
   display: block;
-  margin: 20px 25% 20px 25%;
+  width: 800px;
+  margin: 20px auto;
 }
 
 h2 {
