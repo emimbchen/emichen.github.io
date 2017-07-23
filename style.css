@@ -58,8 +58,8 @@ ul {
 margin: 2px 0px 4px 0px;
 }
 
-#skills ul {
-display: inline;
+.skills, ul {
+display: inline-block;
 line-height: 1em;
 }
 
