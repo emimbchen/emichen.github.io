@@ -60,12 +60,12 @@ margin: 2px 0px 4px 0px;
 
 #skillsone {
 float: left;
-width: 30%;
+width: 50%;
 }
 
 #skillstwo {
-width: 30%;
-float: left;
+width: 50%;
+float: right;
 }
 
 #degrees {
