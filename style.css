@@ -61,6 +61,7 @@ margin: 2px 0px 4px 0px;
 #skills {
 display: inline-block;
 vertical-align: middle;
+line-height: 1em;
 }
 
 #degrees {
