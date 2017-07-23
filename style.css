@@ -46,6 +46,7 @@ h4 {
 
 /* titles */
 h3 {
+  clear: left;
   text-align: center;
   text-transform: uppercase;
   font-weight: bold;
